@@ -26,5 +26,9 @@
   "bugs": {
     "url": "https://github.com/almostdaly/node-log/issues"
   },
-  "homepage": "https://github.com/almostdaly/node-log"
+  "homepage": "https://github.com/almostdaly/node-log",
+  "devDependencies": {
+     "mocha": "",
+     "should": ""
+   }
 }
