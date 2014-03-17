@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+var Log = require('../lib/main');
+
+console.log(Log());

@@ -30,5 +30,8 @@
   "devDependencies": {
      "mocha": "",
      "should": ""
-   }
+   },
+   "bin" : {
+      "node-log" : "./bin/node-log"
+   } 
 }
