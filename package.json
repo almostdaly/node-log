@@ -1,0 +1,30 @@
+{
+  "name": "node-log",
+  "version": "0.0.1",
+  "description": " A universal node logging module for bad-ass console output",
+  "main": "lib/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/almostdaly/node-log.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "nodejs",
+    "log",
+    "logger",
+    "javascript"
+  ],
+  "author": "Andy Daly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/almostdaly/node-log/issues"
+  },
+  "homepage": "https://github.com/almostdaly/node-log"
+}
